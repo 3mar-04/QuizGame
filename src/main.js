@@ -21,24 +21,9 @@ document.addEventListener("DOMContentLoaded", () => {
     "correct": 1
   },
   {
-    "question": "What does 'GUI' stand for?",
-    "answers": ["Graphical User Interface", "General User Interface", "Great User Interaction", "Generated Universal Interface"],
-    "correct": 0
-  },
-  {
-    "question": "What is the function of a web browser?",
-    "answers": ["Access websites", "Compile code", "Write documents", "Manage databases"],
-    "correct": 0
-  },
-  {
     "question": "Which symbol is commonly used to comment a line in Python?",
     "answers": ["/* */", "//", "<!-- -->", "#"],
     "correct": 3
-  },
-  {
-    "question": "What does HTTP stand for?",
-    "answers": ["HyperText Transfer Procedure", "HyperText Transfer Program", "HyperText Transfer Protocol", "HyperText Translation Protocol"],
-    "correct": 2
   },
   {
     "question": "Which of these is a relational database?",
@@ -61,29 +46,14 @@ document.addEventListener("DOMContentLoaded", () => {
     "correct": 0
   },
   {
-    "question": "What does 'polymorphism' mean in object-oriented programming?",
-    "answers": ["A function that can take multiple arguments", "The ability of different objects to be treated as instances of the same class", "A way to handle errors in code", "The process of combining classes"],
-    "correct": 1
-  },
-  {
     "question": "Which algorithm has the best time complexity for sorting an already sorted array?",
     "answers": ["Merge Sort", "Quick Sort", "Insertion Sort", "Bubble Sort"],
-    "correct": 2
-  },
-  {
-    "question": "In Python, what does the @staticmethod decorator do?",
-    "answers": ["Speeds up execution", "Converts a function into a method of a class", "Allows a method to be called without an instance of the class", "Makes the method private"],
     "correct": 2
   },
   {
     "question": "Which technology is used to implement virtual machines?",
     "answers": ["Docker", "Kubernetes", "Ansible", "VMware"],
     "correct": 3
-  },
-  {
-    "question": "What does ACID stand for in database management?",
-    "answers": ["Access, Connection, Integrity, Durability", "Analytics, Computation, Integration, Data", "Atomicity, Consistency, Isolation, Durability", "Allocation, Computation, Interaction, Distribution"],
-    "correct": 2
   },
   {
     "question": "How many continents are there on Earth?",
